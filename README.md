@@ -2,7 +2,7 @@
 
 ### Hello, it's me👋
 
-I'm entusiastic python deweloper who strives to do useful things. Let's make them together! \
+I'm entusiastic python developer who strives to do useful things. Let's make them together! \
 Now I'm working on my own projects CastReaper and Red_it_or_not. Stay tuned!
 
 Come check my last works: \
