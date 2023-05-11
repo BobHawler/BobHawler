@@ -14,4 +14,4 @@ https://github.com/BobHawler/infra-project \
 https://github.com/BobHawler/YaTube \
 https://github.com/BobHawler/foodgram-project
 
-You can reach me at bobhawler@gmail.com or at https://www.linkedin.com/in/anatolyknv/
+You can reach me at bobhawler@gmail.com or at LinkedIn ☝️
